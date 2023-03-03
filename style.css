@@ -1,0 +1,20 @@
+h1 {
+	color:red; 
+}
+
+p {
+	color:greenyellow;
+}
+
+p {
+  text-indent: 50px;
+}
+
+.intro {
+  background-color: yellow;
+}
+
+p {
+  font-size: 25px;
+  line-height: 50px;
+}
